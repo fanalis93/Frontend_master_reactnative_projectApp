@@ -3,7 +3,6 @@ import { View, Text, SafeAreaView, FlatList, StyleSheet } from "react-native";
 import ColorBox from "../components/ColorBox";
 import { NavigationContainer } from "@react-navigation/native";
 import Colors from "../components/Colors";
-import { color } from "react-native-reanimated";
 
 const ColorPalette = ({ route }) => {
   const { colors, paletteName } = route.params;
