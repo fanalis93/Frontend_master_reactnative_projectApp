@@ -1,4 +1,4 @@
-# Frontend Masters React Native Project APP
+# Frontend Masters React Native Project APP (This is an experimental project that is a bit different than the actual project application)
 Initial Sample Screen: 
 
 ![screen1](https://user-images.githubusercontent.com/28630547/116118313-ba6c8200-a6ef-11eb-93ae-c4f788bdb445.jpeg)
