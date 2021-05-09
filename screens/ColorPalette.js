@@ -10,7 +10,7 @@ const ColorPalette = ({ route }) => {
     <SafeAreaView style={styles.safeArea}>
       <View style={[styles.pink, styles.container]}>
         <Text style={styles.text}>
-          Here are some boxes of different colors! in traditional way.
+          Here are some boxes of different colors! in traditional way. 🤫
         </Text>
         <View style={[styles.cyanBox, styles.box]}>
           <Text style={styles.boxText}>Cyan: #2aa198</Text>
